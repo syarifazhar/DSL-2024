@@ -3,6 +3,7 @@
 // Edited by: Syarifuddin Azhar Bin Rosli
 // Student ID: 1005187
 //Started on: 29/02/2024 12:33PM
+//Ended on: 05/03/2024 6:34PM
 //Vivado is evil, Vivado is vile, like a disease~~~
 //////////////////////////////////////////////////////////////////////////////////
 module multiplexer(
