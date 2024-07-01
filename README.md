@@ -1,4 +1,4 @@
-To Cite:
+# To Cite:
 
 @misc{calderon2024logisticmappseudorandom,
       title={Logistic Map Pseudo Random Number Generator in FPGA}, 
@@ -9,8 +9,6 @@ To Cite:
       primaryClass={cs.CR},
       url={https://arxiv.org/abs/2404.19246}, 
 }
-
-##################################################################################################################################
 
 # T-04 Group 1 FPGA-Based Pseudo-Random Number Generator (PRNG)
 
